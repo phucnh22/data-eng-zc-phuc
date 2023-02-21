@@ -4,3 +4,5 @@
 */.terraform/
 *.csv
 mongodb_cleaned_docs.json
+*.json
+*.env
