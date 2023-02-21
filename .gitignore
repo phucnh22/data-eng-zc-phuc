@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
-ny_taxi_postgres_data/
-dataeng-zoomcamp-main/
+*/ny_taxi_postgres_data/
+*/dataeng-zoomcamp-main/
+*/.terraform/
 *.csv
 mongodb_cleaned_docs.json
